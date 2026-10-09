@@ -117,9 +117,8 @@ footer { border-top: 1px solid var(--line); padding-top: 1.25rem; }
 
 .research-image {
   display: block;
-  width: 600px !important;
-  max-width: 80% !important;
-  height: auto !important;
+  width: 70%;
+  height: auto;
   margin: 1.5rem 0 2rem 0;
   border-radius: 8px;
 }
